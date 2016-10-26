@@ -6,16 +6,16 @@
 }
 .navbar {
 	background-color: #fff;
-    color: #888;
-    overflow: hidden;
-    text-align: center;
-    margin: 0px 24px 8px 22px;
-    float: right;
+    	color: #888;
+    	overflow: hidden;
+    	text-align: center;
+	margin: 0px 24px 8px 22px;
+    	float: right;
 }
 
 .navbar ul {
 	margin: 0;
-    padding: 0;
+    	padding: 0;
 }
 ul>li {
 	display: inline;
@@ -24,8 +24,8 @@ ul>li {
 }
 li>a {
 	color:  #6b6464;
-    padding: 0;
-    text-decoration: none;
+    	padding: 0;
+    	text-decoration: none;
 }
 .material-icons {
 	vertical-align: -7px;
@@ -51,10 +51,10 @@ li>a:hover {
 }
 .logo span {
 	position: relative;
-     color:  #038ff3;
-    font-size: medium;
-    right: 65px;
-    top: -5px;
+     	color:  #038ff3;
+    	font-size: medium;
+    	right: 65px;
+    	top: -5px;
 }
 
 .search input {
@@ -67,9 +67,9 @@ li>a:hover {
 .search img {
 	position: relative;
 	width: 35px;
-    height: 30px;
-    top: 10px;
-    left: -40px;
+    	height: 30px;
+    	top: 10px;
+    	left: -40px;
 }
 .button {
 	height: 35px;
